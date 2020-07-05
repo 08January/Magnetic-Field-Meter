@@ -1,0 +1,2 @@
+# Magnetic-Field-Meter
+This is a magnetic field meter, which determines the intensity of the field in Gauss, based on the voltage delivered by the AH49E sensor (KY-035).  By means of linear interpolation, the value of the magnetic field intensity is determined.  Additionally, the location of the poles of a magnet can be deduced depending on the sign of the field and the side of the sensor it is approaching.  I have used the Beatle BadUSB controller ATmega32u4 (Leonardo) and through the ST7735 display I show the measurement result.
