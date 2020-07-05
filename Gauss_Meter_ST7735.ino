@@ -1,7 +1,7 @@
 /*
 Magnetic Field Meter (Gauss)
 & Polarity
-I havev Used Hall effect
+I have Used Hall effect
 sensors (AH49E)
 By DrakerDG (c)
 
